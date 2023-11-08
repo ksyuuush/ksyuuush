@@ -1,7 +1,9 @@
 ### Hi there, I'm KSENIIA RYZHKOVA👋
 
 I am a junior analyst from St. Petersburg!
+
 🔭 I am interested in the DA field because... I have always loved numbers and the possibilities of using them. How can information be presented from different points of view so that it highlights the pros and cons of the activities of an enterprise or project.
+
 ⚡ Fun fact: I am passionate about fashion and style
 
 Languages and Tools:
